@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bulutli Hisoblash Demosi</title>
+</head>
+<body>
+    <h1>Bulutli Veb Server Ishlayapti!</h1>
+    <p>Bu sahifa Python Flask orqali ishga tushgan oddiy serverdan yuklanmoqda.</p>
+</body>
+</html>
